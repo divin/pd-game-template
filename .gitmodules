@@ -2,3 +2,6 @@
 	path = source/libraries/sceneManager
 	url = https://github.com/divin/pd-scene-manager.git
 	branch = main
+[submodule "types"]
+	path = types
+	url = https://github.com/notpeter/playdate-luacats
